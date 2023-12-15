@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503327814229",
+    "project_id": "uzone-3e5ce",
+    "storage_bucket": "uzone-3e5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503327814229:android:aa8e13f5ad4df3bd025adc",
+        "android_client_info": {
+          "package_name": "com.example.uzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZlL3D6_zftn7aWADwBC5aYAaJMi_lX24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
